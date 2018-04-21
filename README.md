@@ -8,7 +8,7 @@ in your `greenlight.yml` file include:
 
 ```yaml
 plugins:
-  redlight/dummy: true
+  audits/dummy: true
 ```
 
 ---
